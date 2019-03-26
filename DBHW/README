@@ -1,0 +1,22 @@
+Oracle
+id: swyoo@kdd.snu.ac.kr
+pw: Wook1492!!
+
+
+
+MySQL 
+[local] 
+id: root 
+pw: root
+
+[remote]
+ip: s.snu.ac.kr
+port: 3306
+id: ADB2018_26190
+pw: ADB2018_26190
+db: ADB2018_26190
+
+
+
+
+
