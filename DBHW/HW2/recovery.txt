@@ -1,0 +1,21 @@
+recover 6
+redo 
+undo <T1>
+recover 12
+redo 
+undo 
+recover 20
+redo <T4>, <T5>
+undo 
+recover 26
+redo 
+undo 
+recover 43
+redo 
+undo <T10>, <T12>, <T9>
+recover 45
+redo 
+undo <T10>, <T7>, <T9>
+recover 46
+redo 
+undo <T10>, <T9>

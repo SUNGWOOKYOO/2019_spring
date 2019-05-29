@@ -1,0 +1,64 @@
+search 0
+query germany
+id        title                                                       TF-IDF              PageRank            
+48009254  Scalarites                                                    8.19e-04            2.34e-05          
+30679120  Hirschsprung%2C_Germany                                       2.67e-04            2.34e-05          
+26860962  Hungary_in_the_Eurovision_Song_Contest_1995                   2.04e-04            2.34e-05          
+5573207   Oscar_Loew                                                    1.81e-04            2.34e-05          
+8738798   Charlotte_Ander                                               1.39e-04            2.69e-05          
+35426658  Orkus                                                         1.35e-04            2.69e-05          
+37960498  Haberberg                                                     1.23e-04            2.56e-05          
+32847001  Hebrew_and_Aramaic_papyri                                     1.32e-04            2.34e-05          
+34999343  Barry_Mendelson                                               9.74e-05            2.34e-05          
+1244006   List_of_state_leaders_in_1024                                 8.24e-05            2.34e-05          
+
+search 1
+query germany
+id        title                                                       TF-IDF              PageRank            
+6241635   Sing_Sang_Song                                                5.12e-03            2.34e-05          
+48009254  Scalarites                                                    7.83e-04            2.34e-05          
+30679120  Hirschsprung%2C_Germany                                       2.55e-04            2.34e-05          
+26860962  Hungary_in_the_Eurovision_Song_Contest_1995                   1.95e-04            2.34e-05          
+5573207   Oscar_Loew                                                    1.74e-04            2.34e-05          
+8738798   Charlotte_Ander                                               1.33e-04            2.70e-05          
+35426658  Orkus                                                         1.29e-04            2.70e-05          
+37960498  Haberberg                                                     1.18e-04            2.56e-05          
+32847001  Hebrew_and_Aramaic_papyri                                     1.26e-04            2.34e-05          
+34999343  Barry_Mendelson                                               9.32e-05            2.34e-05          
+
+search 2
+query Jim Collins
+id        title                                                       TF-IDF              PageRank            
+416890    Chris_Coleman_(footballer)                                    6.09e-04            3.05e-05          
+9097684   John_Hughes_(Irish_musician)                                  4.27e-04            2.34e-05          
+11938928  Julian_Lage                                                   2.98e-04            2.70e-05          
+13017962  Israel_Hands                                                  2.85e-04            2.70e-05          
+12489103  Dog_walking                                                   2.27e-04            2.55e-05          
+19798307  Dana_Hall_(musician)                                          1.75e-04            2.34e-05          
+4617934   Post-metal                                                    1.30e-04            2.70e-05          
+15072489  Carrere_Records                                               1.04e-04            2.52e-05          
+47474022  GZA                                                           5.85e-05            3.08e-05          
+1147716   Richard_Schiff                                                5.62e-05            3.05e-05          
+
+search 3
+query MAMAMOO
+id        title                                                       TF-IDF              PageRank            
+
+search 4
+query competition
+id        title                                                       TF-IDF              PageRank            
+7944474   Beach_Handball_World_Championships                            8.53e-04            2.70e-05          
+24827376  1997_Fed_Cup_World_Group_II                                   6.72e-04            2.76e-05          
+11965180  The_MANIAC_Challenge                                          7.37e-04            2.35e-05          
+44681310  Karate_at_the_2014_Pan_American_Sports_Festival               6.89e-04            2.35e-05          
+43120923  Donald_Weilerstein                                            5.01e-04            3.12e-05          
+29355912  2011_NAB_Cup                                                  3.73e-04            3.05e-05          
+47802357  1998_New_Zealand_NBL_season                                   4.30e-04            2.52e-05          
+10758004  FINA_World_Junior_Swimming_Championships                      3.84e-04            2.70e-05          
+26327133  2001_in_hammer_throw                                          3.73e-04            2.35e-05          
+1019791   National_Merit_Scholarship_Program                            1.49e-04            3.05e-05          
+
+search 5
+query Soju
+id        title                                                       TF-IDF              PageRank            
+

@@ -1,0 +1,10 @@
+<T1> DELETE FROM wiki WHERE id = 339712;
+<T2> UPDATE wiki SET text = 'Les Humphries Singers Sing Sang Song Germany 1976' WHERE id = 6241635;
+<T1> DELETE FROM link WHERE id_from = 339712;
+<T1> DELETE FROM link WHERE id_to = 339712;
+<T2> rollback
+system failure - recover
+<T3> DELETE FROM wiki WHERE id = 7649292;
+<T3> DELETE FROM link WHERE id_from = 7649292;
+<T3> DELETE FROM link WHERE id_to = 7649292;
+<T3> commit
